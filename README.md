@@ -6,7 +6,6 @@
   ![Supabase](https://img.shields.io/badge/Supabase-2.5.6-green?logo=supabase)
   ![Dart](https://img.shields.io/badge/Dart-3.10.8-blue?logo=dart)
   ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-red)
-  ![License](https://img.shields.io/badge/License-MIT-yellow)
 
   **✨ Aplikasi Review Film dengan Flutter & Supabase ✨**
   
